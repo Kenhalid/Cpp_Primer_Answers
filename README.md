@@ -3,7 +3,7 @@
 * 发现书中有两处错误的地方，其中一处英文原版书中也有错误
 * 一处在[第9章](https://www.zhihu.com/question/39255704)，一处在[第14章](https://www.zhihu.com/question/42262890)
 
-#### 目录
+### 目录
 - [第1章 : 开始](ch01/README.md)
 - 第 I 部分 : C++基础
 	- [第2章 : 变量和基本类型](ch02/README.md)
